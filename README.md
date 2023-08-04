@@ -1,7 +1,7 @@
 
 A Web App that uses Geolocation, Google Maps API, Google Places API and Travel Advisor's API to display Restaurants, Hotels and Attractions around your location.
 
-## Live Demo
+## Demo
 ```diff
 - Allow your location to be tracked, otherwise it will not run properly
 ```
