@@ -5,7 +5,7 @@ A Web App that uses Geolocation, Google Maps API, Google Places API and Travel A
 ```diff
 - Allow your location to be tracked, otherwise it will not run properly
 ```
-[https://travel-advisor-mat.netlify.app/](https://travel-advisor-mat.netlify.app/)
+[https://travel-companion-mat.netlify.app/](https://travel-companion-mat.netlify.app/)
 
 ## How to run locally
 
